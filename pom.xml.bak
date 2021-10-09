@@ -120,8 +120,8 @@
                             <value>""</value>
                         </replacement>
                         <replacement>
-                            <token>cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3</token>
-                            <value>underscorejs.net</value>
+                            <token>"cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3"</token>
+                            <value>"underscorejs.net"</value>
                         </replacement>
                     </replacements>
                     <regex>false</regex>
